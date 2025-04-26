@@ -1,7 +1,7 @@
 # Smart-Barricade
 
 ## Overview
-This project aims to develop a Smart Barricade with a GPS module and microcontroller to track its location on Google Maps. The collected GPS data is sent to the cloud (ThingSpeak) and visualized on a user interface.
+A smart barricade system is a traffic management tool that uses automated barriers to regulate traffic flow, particularly at intersections or during specific events like construction or emergencies
 
 ## Components
 - GPS Module (e.g., NEO-6M or NEO-7M)
